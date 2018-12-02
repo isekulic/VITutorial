@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/philschulz/VITutorial/master)
 
-* Solved notebook at [code/vae_notebook.ipynb](//github.com/isekulic/VITutorial/code/vae_notebook.ipynb) *
+* Solved notebook at [code/vae_notebook.ipynb](https://github.com/isekulic/VITutorial/blob/master/code/vae_notebook.ipynb) *
 
 This repository stores material for a *tutorial on variational inference for NLP audiences*. 
 
